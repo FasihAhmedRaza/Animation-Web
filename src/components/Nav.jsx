@@ -46,7 +46,9 @@ const FloatingNav = () => {
                text-white text-sm"
               >
                 Sign up
-              </button>
+              </button>  
+
+              
             </a>
           </div>
 
