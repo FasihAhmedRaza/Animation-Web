@@ -1,6 +1,8 @@
 
 import './App.css';
 import FloatingNav from './components/Nav';
+import HeroVideo from './components/Video';
+
 function App() {
   return (
     <div>
@@ -9,6 +11,8 @@ function App() {
   </h1> */}
 
   <FloatingNav/>
+  <HeroVideo/>
+  <circuit/>
  <div>hellow eols</div> 
   </div>
   );
